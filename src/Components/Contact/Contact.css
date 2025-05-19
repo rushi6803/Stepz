@@ -1,0 +1,83 @@
+.contact-us{
+    display: block;
+    min-height: 50vh;
+}
+
+.contact-us h1{
+    padding-top:30px ;
+    text-align: center;
+    color: #146788;
+    font-weight: 600;
+}
+
+iframe{
+    height: 50vh;
+}
+
+
+.custom-form {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #f3f3f3;
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    }
+
+
+    
+    
+    .custom-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+   
+    }
+    
+    .custom-form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: 300;
+    }
+    
+    .custom-form textarea, .custom-form input,
+    .custom-form select {
+    width: 100%;
+    padding: 8px 10px;
+    margin-top: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    .custom-form .error {
+    color: red;
+    font-size: 12px;
+    }
+    
+    .custom-form button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background-color: #146788;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    
+    .custom-form button:hover {
+    background-color: #2980b9;
+    }
+
+    
+
+
+ .contact-us span{
+        display: block;
+        margin: 20px 0;
+        text-align: center;
+    
+    }
+    

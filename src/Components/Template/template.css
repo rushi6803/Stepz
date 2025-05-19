@@ -1,0 +1,90 @@
+.temp{
+    width: 100%;
+    min-height: 60vh;
+    background: linear-gradient(rgba(58, 40, 0, 0.7),rgba(22, 152, 234, 0.7)), url('../../assets/template.jpg');
+    background-size: cover ;
+    background-position: center;
+    color: #FFF;
+    display: flex;
+    margin: 100px auto;
+    font-weight: 300;
+    justify-content: center;
+    
+
+}
+
+.temp-left{
+    flex-basis: 60%;
+}
+.temp-right{
+    flex-basis: 40%;
+        
+   
+}
+.temp-left img{
+   
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    margin: 10px 50px;
+}
+
+.temp h3{
+    color: #FFF;
+    max-width: 350px;
+    font-size: 35px;
+    margin-top:40px ;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.temp h2{
+    color: #FFF;
+    max-width: 350px;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.temp h4{
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+.temp p{
+    margin-bottom:  50px;
+    justify-content: center;
+    margin-top: 30px;
+    max-width: 400px;
+}
+
+.temp-right img{
+    width:  80px;
+    margin-right:  80px;
+    margin-bottom: 20px;
+}
+
+@media(min-width: 321px) and (max-width: 479.95px)
+{
+    .temp{
+        flex-direction: column;
+        width: 560px;
+
+    }
+    .temp-left{
+        display: none;
+    }
+    .temp-right {
+        
+        justify-content: center;
+       
+    }
+    .temp-right h2,.temp-right h3,.temp-right p,.temp-right h4 {
+      padding-left: 30px;
+    }
+    .img1{
+      align-items: center;
+      padding-left: 50px;
+    }
+}
+
+

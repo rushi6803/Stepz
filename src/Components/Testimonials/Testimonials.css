@@ -1,0 +1,144 @@
+.testimonials{
+    margin: 80p auto;
+    padding: 0 80px;
+    position: relative;
+    text-align: center
+}
+.testimonials  h1{
+    color: #146788 ;
+    word-spacing: 15px;
+}
+.next-btn,.back-btn{
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translateY(-50%);
+    padding: 15px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+.back-btn{
+   right: auto;
+   left: 0;
+}
+
+
+.slider{
+    overflow:hidden;
+
+}
+.slider ul{
+    display: flex;
+    width: 150%;
+    overflow-x:visible;
+    transition: 0.5s;
+   
+}
+.slider ul li {
+    list-style: none;
+    width: 60%;
+    padding: 20px;
+
+}
+.slide{
+    box-shadow:  0 0 30px rgba(0,0,0,0.05);
+    padding: 40px;
+    border-radius: 10px;
+    color: #676767;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 30;
+    width: 300px;
+    height: 500px;
+    border-width: 1px;
+    border-style: solid;
+}
+.slide img{
+    width: 65px;
+    border-radius: 50%;
+    margin-right: 10px;
+    
+}
+.user-info{
+    display: flex;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.next-btn:hover{
+    box-shadow: 3px 3px 8px 8px lightblue;
+    border-radius: 3px;
+}
+
+.back-btn:hover{
+    box-shadow: 3px 3px 8px 8px lightblue;
+    border-radius: 3px;
+}
+.user-info h3{
+    color:#146788 ;
+    font-size: 30px;
+}
+
+@media(max-width:700px){
+    .testimonials{
+        padding: 0 40px;
+        
+
+    }
+    .next-btn,.back-btn{
+        padding: 10px;
+        width: 35px;
+       
+    }
+    .testimonials ul li{
+        padding: 10px;
+    }
+    .slide{
+        padding: 10px;
+        height: 200px;
+        width: 200px;
+       
+    }
+    
+    
+}
+    @media(min-width: 321px) and (max-width: 479.95px){
+       .user-info{
+        display: block;
+        margin-bottom: 10px;
+        
+       }
+       span{
+        display: none;
+       }
+       .user-info h3{
+        font-size: 10px;
+       }
+       .slider p{
+        font-size: 9px;
+        height: 200px;
+        width: 190px;
+        flex-direction: column;
+        margin-left: 5px;
+        
+       }
+       
+
+       .testimonials{
+        padding: 0 40px;
+        width: 560px;
+        flex-direction: row;
+        flex-basis: 100%;
+       }
+    .slide{
+        padding: 0px;
+        height: 130px;
+        width: 200px;
+        overflow: hidden;
+    }
+    h1{
+        font-size: 20px;
+    }
+}
