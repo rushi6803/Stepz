@@ -10,8 +10,8 @@ const Footer = () => {
     <>
     <div className='footer'>
       <div className='left'>
-        <h1>STEPZAHEAD PVT LTD</h1>
-        <p>Stepzahead Pvt Ltd is a business based in Adelaide, South Australia, with Australian corporate registration, that helps students from different countries and backgrounds to gain access to universities and colleges in Australia and abroad.</p>
+        <h1>STEPZAHEAD PTY LTD</h1>
+        <p>Stepzahead Pty Ltd is a business based in Adelaide, South Australia, with Australian corporate registration, that helps students from different countries and backgrounds to gain access to universities and colleges in Australia and abroad.</p>
       </div>
       <div className='mid'><h3>CONTACT DETAILS</h3>
       <p><b>Office Address:</b><a href='https://maps.app.goo.gl/myZihcAMpRSowD1dA'>50 Grenfell Street ,Adelaide,5000</a></p>
@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
       </div>
       <div className='bottom'>
-    <p><b>© 2025 STEPZAHEAD PVT LTD. All rights Reserved</b></p>
+    <p><b>© 2025 STEPZAHEAD Pty LTD. All rights Reserved</b></p>
     
    
     </div>
