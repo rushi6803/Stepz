@@ -10,6 +10,7 @@ import Contact from './Components/Contact/Contact'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import FAQ from './Components/FAQ/FAQ'
 import Study from './Components/Study/Study'
+import Gallery from './Components/gallery/gallery'
 
 const router=createBrowserRouter(
 [
@@ -21,6 +22,7 @@ const router=createBrowserRouter(
     <Hero/>
     <About/>
     <Services/>
+    <Gallery/>
     <Template/>      
     <Testimonial/>
     <Footer/>
@@ -46,6 +48,18 @@ const router=createBrowserRouter(
     <div className='container'>
     <Navbar/>
     <FAQ/>
+    <Footer/>
+    
+    </div>
+
+  },
+  ,
+  {
+    path:"/grant",
+    element:
+    <div className='container'>
+    <Navbar/>
+    <Gallery/>
     <Footer/>
     
     </div>

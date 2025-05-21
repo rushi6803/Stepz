@@ -22,8 +22,8 @@ const Navbar = () => {
   return (
     <>
     <div className='top'>
-  <ul><li className='right'> <NavLink to="/contact">  <img src={location} alt="" className='add' />25 Wood road, Paradise, SA 5075</NavLink> </li>
-  <li>  <img src={call} alt="" className='call'/>+61-0411720025</li>
+  <ul><li className='right'> <NavLink to="/contact">  <img src={location} alt="" className='add' />50 Grenfell Street ,Adelaide,5000</NavLink> </li>
+  <li>  <img src={call} alt="" className='call'/><a href='https://wa.me/+610411720025'>+61-0411720025</a></li>
    </ul>
     </div>
 
@@ -35,6 +35,7 @@ const Navbar = () => {
           <NavLink to="/about" ><li>ABOUT US</li></NavLink>
           <NavLink to="/study">  <li>STUDY ABROAD</li></NavLink>
           <NavLink to="/title">  <li>SERVICES</li></NavLink>
+          <NavLink to="/grant">  <li>VISA GRANT</li></NavLink>
           <NavLink to="/Faq"> <li>FAQ'S</li></NavLink> 
           <NavLink to="/contact"> <li> CONTACT  US</li></NavLink>
           <NavLink to="/contact">  <button className='btn'>GET CONSULTATIONS</button></NavLink>

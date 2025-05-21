@@ -1,0 +1,46 @@
+.gallery h1{
+    color:#146788;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+.gallery img{
+    width: 50vh;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+
+.images{
+   padding-left: 100px;
+}
+
+.gallery img:hover{
+    box-shadow: 3px 3px 8px 8px lightblue;
+    border-radius: 3px;
+}
+
+@media (min-width: 321px) and (max-width: 479.95px)
+{
+    .gallery{
+        padding-top: 100px;
+        width: 560px;
+    }
+    .gallery img{
+        width: 50vh;
+        padding-right: 0px;
+        padding-left: 0px;
+      
+        
+        
+    }
+
+    .images{
+        padding-left: 120px;
+        padding-top: 30px;
+    }
+
+}

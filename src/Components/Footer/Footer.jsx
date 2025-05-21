@@ -12,9 +12,9 @@ const Footer = () => {
         <p>Stepz Ahead Pvt Ltd is a business based in Adelaide, South Australia, with Australian corporate registration, that helps students from different countries and backgrounds to gain access to universities and colleges in Australia and abroad.</p>
       </div>
       <div className='mid'><h3>CONTACT DETAILS</h3>
-      <p><b>Office Address:</b>25 Wood road, Paradise ,SA 5075</p>
-      <p><b>Contact No:</b>+61 0411720025</p>
-      <p><b>E-mail:</b>abc@gmail.com</p>
+      <p><b>Office Address:</b><a href='https://maps.app.goo.gl/myZihcAMpRSowD1dA'>50 Grenfell Street ,Adelaide,5000</a></p>
+      <p><b>Contact No:</b><a href='https://wa.me/+610411720025'>+61 0411720025</a></p>
+      <p><b>E-mail:</b>info@stepz.com</p>
       </div>
        
       <div className='right'> 

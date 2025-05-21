@@ -68,7 +68,7 @@
     .temp{
         flex-direction: column;
         width: 560px;
-
+        margin-top: 140px;
     }
     .temp-left{
         display: none;

@@ -81,29 +81,9 @@
     font-size: 30px;
 }
 
-@media(max-width:700px){
-    .testimonials{
-        padding: 0 40px;
-        
 
-    }
-    .next-btn,.back-btn{
-        padding: 10px;
-        width: 35px;
-       
-    }
-    .testimonials ul li{
-        padding: 10px;
-    }
-    .slide{
-        padding: 10px;
-        height: 200px;
-        width: 200px;
-       
-    }
     
-    
-}
+
     @media(min-width: 321px) and (max-width: 479.95px){
        .user-info{
         display: block;
@@ -114,12 +94,12 @@
         display: none;
        }
        .user-info h3{
-        font-size: 10px;
+        font-size: 25px;
        }
        .slider p{
-        font-size: 9px;
-        height: 200px;
-        width: 190px;
+        font-size: 15px;
+        height: 300px;
+        width: 370px;
         flex-direction: column;
         margin-left: 5px;
         
@@ -134,11 +114,11 @@
        }
     .slide{
         padding: 0px;
-        height: 130px;
-        width: 200px;
+        height: 170px;
+        width: 400px;
         overflow: hidden;
     }
     h1{
-        font-size: 20px;
+        font-size: 30px;
     }
 }

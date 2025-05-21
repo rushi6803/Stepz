@@ -29,7 +29,6 @@ nav{
 }
 .top {
     background:#146788 ;
-    
 }
 .top img{
     width: 20px;
@@ -111,6 +110,7 @@ ul{
      }
      nav ul.open { /* Class to toggle the menu visibility */
         right: 0;
+        
     }
 
      .btn{
@@ -121,6 +121,15 @@ ul{
      }
      .logo{
         width: 190px;
+     }
+
+     .navbar ul li{
+        padding-right: 40px;
+        text-align: left;
+        padding-left: 10px;
+     }
+     .navbar ul{
+        text-align: left;
      }
 
     

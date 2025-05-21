@@ -31,8 +31,8 @@ const Contact = () =>{
     <>
         <div className='Contact'>
             <div className='location'> 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d399.899306485855!2d138.68041939548863!3d-34.87009913723679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0b5785c88621b%3A0x63d9a7dba3231418!2s25%20Wood%20Rd!5e0!3m2!1sen!2sin!4v1747383628774!5m2!1sen!2sin" width="100%" height="700" style={{border:"0"}} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade">
-            </iframe>
+            
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.3001156664395!2d138.599128675959!3d-34.9240094728411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0ced6f33da6af%3A0xa1af4edb54172b63!2s50%20Grenfell%20St%2C%20Adelaide%20SA%205000%2C%20Australia!5e0!3m2!1sen!2sin!4v1747763109691!5m2!1sen!2sin" width="100%" height="700" style={{border:"0"}}  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div className='contact-us'>
               <h1>GET CONSULTATION</h1>

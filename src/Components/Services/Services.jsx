@@ -14,7 +14,9 @@ import insurance from '../../assets/insurance.png'
 const Services = () => {
   return (
     <>   
+    
     <h2 className='title'>OUR SERVICES</h2>
+    <div className='btm'>
     <div className='Services'>
          <div className="program">
         <img src={career} alt="" />
@@ -72,6 +74,7 @@ const Services = () => {
            <p>Ensure a smooth pre-departure with our assistance covering visa details, currency exchange, travel arrangements, customs, clothing advice, and cultural insights. We ease your landing with airport pickup, course guidance, and visa support.</p>
          </div>
          
+       </div>
        </div>
     </>
 
