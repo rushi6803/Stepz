@@ -53,7 +53,7 @@ const Study = () => {
 
             <img src={can} alt=""  className='can' />
             <h3>Study, Work or Settle in Canada</h3>
-            <p>Canada boasts a diverse array of colleges and universities that have consistently garnered acclaim for providing a superior education to international students. As prominent consultants specializing in overseas education in India, Nexus V Education recognize the numerous advantages that make Canada an optimal destination for pursuing academic endeavors.</p>
+            <p>Canada boasts a diverse array of colleges and universities that have consistently garnered acclaim for providing a superior education to international students. As prominent consultants specializing in overseas education in India, Stepzahead Pty Ltd recognize the numerous advantages that make Canada an optimal destination for pursuing academic endeavors.</p>
            
             <li><b>Economic Prosperity:</b> Ranked among the world's wealthiest nations, Canada boasts a high per-capita income, reflecting its robust economic standing.</li>
 
@@ -100,7 +100,7 @@ const Study = () => {
 
             <img src={usa} alt=""   className='usa'/>
             <h3>Study, Work or Settle in USA</h3>
-            <p>AThe United States, renowned for its diverse and specialized academic programs, has consistently set the standard for education and a superior quality of life. Nexus V Education as premier consultants for USA Study Visa, we specialize in facilitating the pursuit of scholarships for Indian students aspiring to study in the United States.</p>
+            <p>AThe United States, renowned for its diverse and specialized academic programs, has consistently set the standard for education and a superior quality of life. Stepzahead Pty Ltd as premier consultants for USA Study Visa, we specialize in facilitating the pursuit of scholarships for Indian students aspiring to study in the United States.</p>
            
             <li><b>Top Destination for Career Advancement:</b> The United States currently stands as the leading destination for international students seeking to gain a competitive edge in their careers.</li>
 
