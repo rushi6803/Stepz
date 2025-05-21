@@ -16,7 +16,7 @@ const Footer = () => {
       <div className='mid'><h3>CONTACT DETAILS</h3>
       <p><b>Office Address:</b><a href='https://maps.app.goo.gl/myZihcAMpRSowD1dA'>50 Grenfell Street ,Adelaide,5000</a></p>
       <p><b>Contact No:</b><a href='https://wa.me/+610411720025'>+61 0411720025</a></p>
-      <p><b>E-mail:</b>info@stepz.com</p>
+      <p><b>E-mail:</b>info@stepzahead.com</p>
       <div className='social'> 
      
       <a href='https://www.facebook.com/share/1Ey7NtbwDQ/?mibextid=wwXIfr' >    <img src={fb} alt="" className='fb' /> </a>
