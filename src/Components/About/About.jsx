@@ -11,12 +11,12 @@ const About = () => {
           <div className='about-right'>
           <h2>About STEPZAHEAD PTY LTD</h2>
           
-          <p> Stepz Ahead Pvt Ltd is a dedicated immigration consultancy committed to assisting individuals and families in realizing their dream of migrating to Australia. With a team of experienced and knowledgeable migration professionals, we provide comprehensive and tailored solutions to navigate the complexities of the Australian immigration system.
+          <p> Stepzahead Pvt Ltd is a dedicated immigration consultancy committed to assisting individuals and families in realizing their dream of migrating to Australia. With a team of experienced and knowledgeable migration professionals, we provide comprehensive and tailored solutions to navigate the complexities of the Australian immigration system.
           </p>
          <p>
         Our mission is to simplify the visa application process, offering expert guidance and support at every step. We understand that each client's situation is unique, and we pride ourselves on delivering personalized services to maximize their chances of a successful outcome.
         </p>
-        <h3>What sets Stepz Ahead apart:</h3>
+        <h3>What sets Stepzahead apart:</h3>
 
         <p><b>Expertise and Experience: </b>Our team comprises seasoned professionals with in-depth knowledge of Australian immigration laws, policies, and procedures. We stay up-to-date with the latest changes to provide accurate and reliable advice.</p>
 
