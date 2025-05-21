@@ -9,7 +9,7 @@ const About = () => {
           
           </div>
           <div className='about-right'>
-          <h2>About STEPZ AHEAD PVT LTD</h2>
+          <h2>About STEPZAHEAD PTY LTD</h2>
           
           <p> Stepz Ahead Pvt Ltd is a dedicated immigration consultancy committed to assisting individuals and families in realizing their dream of migrating to Australia. With a team of experienced and knowledgeable migration professionals, we provide comprehensive and tailored solutions to navigate the complexities of the Australian immigration system.
           </p>
